@@ -17,11 +17,11 @@ A Clínica Nufit possui recepção, três consultórios e setor administrativo/f
 
 A rede utiliza topologia em estrela estendida, com cinco computadores, um notebook, duas impressoras, quatro câmeras, quatro switches e um roteador sem fio. Um celular representa o acesso de um paciente à rede de convidados.
 
-O arquivo inclui uma planta ilustrativa, sem escala. As linhas representam conexões de rede, não o percurso físico dos cabos.
+A planta ilustrativa da clínica está no relatório em PDF. 
 
 ## Como abrir
 
-1. Baixe o arquivo `clinica-nufit-planta.pkt` deste repositório. No GitHub, abra o arquivo e use a opção **Download raw file**.
+1. Baixe o arquivo `clinica-nufit-final.pkt` deste repositório. No GitHub, abra o arquivo e use a opção **Download raw file**.
 2. Abra o Cisco Packet Tracer.
 3. Selecione **File → Open / Arquivo → Abrir** e escolha o arquivo baixado.
 
